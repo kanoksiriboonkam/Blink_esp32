@@ -7,3 +7,7 @@
 # ขั้นตอนที่5 build
 -หลังจากทำตามขั้นตอน1-4เสร็จสิ้นแล้วต่อไป ให้ทำการbuild 
 # <img width="1016" alt="ภาพถ่ายหน้าจอ 2567-11-01 เวลา 21 13 07" src="https://github.com/user-attachments/assets/b3d36285-d806-4bf1-8a35-bc7bedc00b73">
+
+# ปรับปรุงแก้ไข้ในการใช้งานได้ดังนี้
+แก้ไข delay ให้ไฟติดและดับเร็วขึ้น 
+#  <img width="772" alt="ภาพถ่ายหน้าจอ 2567-11-01 เวลา 21 39 51" src="https://github.com/user-attachments/assets/835b3101-b8c3-448d-a142-e162fb28822a">
